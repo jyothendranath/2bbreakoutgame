@@ -1,6 +1,7 @@
 let paddle_x, paddle_y, paddle_width, paddle_height, paddle_dx;
 let ball_x, ball_y, ball_diameter, ball_dx, ball_dy;
 let brick_x,brick_y,brick_width,brick_height,fl=true;
+
 function setup() {
   createCanvas(400, 400);
   background("black");
